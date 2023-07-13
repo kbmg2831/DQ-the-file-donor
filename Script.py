@@ -194,14 +194,10 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-╭─────── • ◆ • ───────╮
-🔅 Dᴀʀᴋ Mᴏᴅᴇ :  <a href="https://t.me/addtheme/PU3kq10PK6TbW2eM">Tᴏᴜᴄʜ</a>
-╰─────── • ◆ • ───────╯
 
-=========== • ✠ • ===========
-▫️ ᴄʜᴀɴɴᴇʟ : @TamilRockerz_TR
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @TR_Discussion_Group
-=========== • ✠ • ===========</b>"""
+╭──── • ◆ • ────╮
+    @TamilRockerz_TR
+╰──── • ◆ • ────╯</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
